@@ -10,7 +10,7 @@ const page = () => {
         <div className='h-full w-[50rem] absolute bg-linear-to-r from-black to-transparent'>
 
           <div className='absolute top-1/3 left-0 w-3/5 ps-9 h-2/3 text-center rounded-sm text-white font-bold '>
-            <h1 className='text-8xl h-auto w-full '>CodeStack</h1>
+            <h1 className='text-8xl h-auto w-full '>Figma</h1>
             <p className='text-xl leading-relaxed h-auto w-full mt-9 indent-16 text-left'>
             &quot;Nothing great is made alone&quot;
             </p>
