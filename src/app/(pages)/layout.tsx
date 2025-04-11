@@ -1,6 +1,5 @@
 import React from 'react'
 import { NavigationMenu, NavigationMenuItem, NavigationMenuLink, NavigationMenuList } from '@/components/ui/navigation-menu'
-import Link from 'next/link'
 const layout = ({ children }: { children: React.ReactNode }) => {
 
 
