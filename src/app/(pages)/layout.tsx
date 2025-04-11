@@ -1,8 +1,9 @@
 import React from 'react'
-import { NavigationMenu, NavigationMenuItem, NavigationMenuLink, NavigationMenuList} from '@/components/ui/navigation-menu'
+import { NavigationMenu, NavigationMenuItem, NavigationMenuLink, NavigationMenuList } from '@/components/ui/navigation-menu'
+import Link from 'next/link'
 const layout = ({ children }: { children: React.ReactNode }) => {
 
- 
+
     return (
         <div className='bg-[#7393B3] h-screen '>
 
@@ -11,7 +12,7 @@ const layout = ({ children }: { children: React.ReactNode }) => {
                     <NavigationMenu >
                         <NavigationMenuList >
                             <NavigationMenuItem >
-                                <NavigationMenuLink className='  bg-red-100'>
+                                <NavigationMenuLink href='/' className='  bg-red-100'>
                                     Home
                                 </NavigationMenuLink>
                             </NavigationMenuItem>

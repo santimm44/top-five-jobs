@@ -1,9 +1,9 @@
 [
     {
-        "Title": "MESA USA",
-        "Description": "Founded in 1970 at Oakland Technical High School with just 25 students, the program began with the goal to increase the number of students earning STEM degrees from four-year universities—a goal that remains central to MESA’s work today.",
-        "Image": "/MESA-logo.png",
-        "Redirect": "/MESAUSA"
+        "Title": "Developer Advocate at Recall.ai",
+        "Description": "Recall - Summarize Anything, Forget Nothing.",
+        "Image": "/recall1.png",
+        "Redirect": "/Recall"
     },
     {
         "Title": "American Red Cross",
@@ -52,5 +52,11 @@
         "Description": "We're a mental health brand with the #1 app for sleep, meditation, and relaxation*, with over 150 million downloads and 2.5M 5-star reviews**.  We’re here to help you sleep more, stress less and live mindfully.",
         "Image": "/calm-health-logo.png",
         "Redirect": "/Calm"
+    },
+    {
+        "Title": "Figma",
+        "Description": "Nothing great is made alone",
+        "Image": "/Figma.png",
+        "Redirect": "/Figma"
     }
 ]

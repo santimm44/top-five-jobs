@@ -24,10 +24,10 @@
     {
         "Title": "Developer(CodeStack)",
         "Why_I_want_to_there": "The main reason why I would like to work in CodeStack is because I can directlyimpact and help people in the community. Whether it is as a tutor or a regular developer I am positive I can make a positive impact. Another pro would be the fact that it is in Stockton. Stockton is where my grandparents live and Manteca is where my parents and siblings are located. Work being close to where my family is located is a huge plus.",
-        "Tech_stack": "",
-        "Do_I_need_to_learn_new_tech": "",
-        "What_goals_do_I_have_in_position": "",
-        "Do_I_have_the_skills_for_the_job": "",
+        "Tech_stack": "React | Next.js | HTML | CSS | JavaScript | TypeScript | Azure ",
+        "Do_I_need_to_learn_new_tech": "No. I am actively learning from CodeStack, so I should be learning them now if there is anything I need to learn.",
+        "What_goals_do_I_have_in_position": "To garner experience and help the community in the same time.",
+        "Do_I_have_the_skills_for_the_job": "I believe I do, I just need the experience to back it u[.",
         "Link_to_job": "n/a",
         "Job_description": "",
         "Job_requirements": ""
@@ -44,15 +44,15 @@
         "Job_requirements": "Advanced proficiency in both front-end and back-end development, with significant experience in modern web technologies such as React.js, Node.js, and Python. Strong understanding of mobile development, particularly for Android platforms, with experience in Java and Kotlin. Ability to work independently with minimal supervision, demonstrating initiative and sound judgment.Excellent communication skills, problem-solving abilities, and a creative mindset. Experience with distributed computing systems and relational databases is advantageous. "
     },
     {
-        "Title": "MESA USA",
-        "Why_I_want_to_there": "",
-        "Tech_stack": "",
-        "Do_I_need_to_learn_new_tech": "",
-        "What_goals_do_I_have_in_position": "",
-        "Do_I_have_the_skills_for_the_job": "",
-        "Link_to_job": "n/a",
-        "Job_description": "",
-        "Job_requirements": ""
+        "Title": "Developer Advocate (Recall.ai)",
+        "Why_I_want_to_there": "I mainly want to include this as a place to work in to have a tech adjacent job if in case I don't immediately succeed in finding a tech role within a year after CodeStack.",
+        "Tech_stack": "None",
+        "Do_I_need_to_learn_new_tech": "No",
+        "What_goals_do_I_have_in_position": "Use this position of as a levaraging point to bide time to enter a tech role.",
+        "Do_I_have_the_skills_for_the_job": "Yes. I only really need to be able to write, keep up with the company tech, and be compelling.",
+        "Link_to_job": "https://aijobs.ai/job/developer-advocate-10",
+        "Job_description": "Develop, write, and edit compelling technical content. Experiment with and rigorously test new written content ideas. Keep up-to-date with our products, industry trends, and the needs of our users to create effective content.",
+        "Job_requirements": "2+ years of programming experience. Excellent technical written communication skills. Metrics-driven & an experimental mindset."
     },
     {
         "Title": "Software Engineer, Datastore (Notion)",
@@ -99,14 +99,14 @@
         "Job_requirements": "▪    Demonstrable experience (at least 2 - 4 years working in technology, preferably at an organization with over 20 developers on staff) ▪    Should be passionate about live entertainment and excited to build products that can withstand traffic from millions of excited fans ▪    Expertise developing in Java preferably using Spring and Maven ▪    Experience building applications on AWS using serverless technologies like Lambda, Step Functions, and Appsync ▪    Working experience with streaming technologies like Kafka or Kinesis ▪    Fluency in JavaScript, React and Node.js, including npm and server frameworks like Next.js ▪    Proficiency deploying apps on Kubernetes ▪    Strong understanding of data structures and algorithm design ▪    Ability to produce highly performant code that can scale effectively"
     },
     {
-        "Title": "MESA USA",
-        "Why_I_want_to_there": "",
-        "Tech_stack": "",
-        "Do_I_need_to_learn_new_tech": "",
-        "What_goals_do_I_have_in_position": "",
-        "Do_I_have_the_skills_for_the_job": "",
-        "Link_to_job": "n/a",
-        "Job_description": "",
-        "Job_requirements": ""
+        "Title": "Software Engineer: Internal Tools (Figma)",
+        "Why_I_want_to_there": "Not going to lie, but I would love to have a premium Figma account as a benefit for working under Figma. ",
+        "Tech_stack": "TypeScript | JavaScript | React | Ruby | Python | Go | Rust | Datadog | Prometheus | Grafana",
+        "Do_I_need_to_learn_new_tech": "I would need to at least learn one of the observability systems (last three of the tech stack) on top of the languages I don't have much practical experiences with: Ruby, Python, Go, and Rust.",
+        "What_goals_do_I_have_in_position": "I want to take away the ability to engineer tools for such a large application.",
+        "Do_I_have_the_skills_for_the_job": "I do not. However, I am confident that in time as long as I keep programming/coding then I will.",
+        "Link_to_job": "https://job-boards.greenhouse.io/figma/jobs/5358480004?gh_jid=5358480004",
+        "Job_description": "Build, document, and maintain tests, features, and infrastructure. Regularly communicate and document architectural designs and requirements. Take shared ownership of the engineering process. Every member of our team is involved from ideation to implementation.  Break down high level goals into tasks and timeline without product and design support to achieve desired outcomes. Regularly collaborate with Product Support, TPMs, and other engineers on and beyond your team (or org) to plan features that reduce friction of internal processes. Provide thoughtful feedback to others on the team and facilitate spaces of learning, belonging, and growth. Help interview and recruit more talented engineers to Figma. Run experiments, tracking internal user behavior and engaging internal users to improve workflows and processes.",
+        "Job_requirements": "3+ years of professional experience shipping features and/or products as a full-stack developer. Demonstrated coding fluency with one or more programming languages in a working context, including but not limited to: Typescript/Javascript, React, Ruby, Python, Go, or Rust. Experience communicating and working effectively across functions to proactively drive solutions. Experience with crafting delightful user experiences that enable internal teams. Experience w/ Datadog or another observability system, like Prometheus & Grafana (open source) for debugging, monitoring, and alerting applications. Finally, Figma is a close-knit company with a strong culture that promotes inclusivity and collaboration, taking ambitious goals and having fun doing so. You deeply value these traits and see yourself actively contributing to it."
     }
 ]

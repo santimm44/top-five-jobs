@@ -20,7 +20,7 @@ const page = () => {
         </div>
       </div>
 
-      <div className='border-2 border-black flex justify-center'>
+      <div className='flex justify-center'>
 
         <PageContent Title='Lead Data Engineer (American Red Cross)' />
       </div>
