@@ -1,0 +1,112 @@
+[
+    {
+        "Title": "Lead Data Engineer (American Red Cross)",
+        "Why_I_want_to_there": "I want to work here because I believe in the cause of American Red Cross. Thaat is the only reason why I want to work there is to contribute.",
+        "Tech_stack": "AWS | Python | SQL | Kafka | Hadoop | Spark | Git | Artifactory | Linux",
+        "Do_I_need_to_learn_new_tech": "Yes, AWS, Python, SQL, Kafka, Hadoop, Spark, and Artifactory",
+        "What_goals_do_I_have_in_position": "To help grow the operations of American Red Cross.",
+        "Do_I_have_the_skills_for_the_job": "No, I probably have a fifth of the skills needed for this job.",
+        "Link_to_job": "https://americanredcross.wd1.myworkdayjobs.com/en-US/American_Red_Cross_Careers/details/Lead-Data-Engineer_RC79571?jobFamily=5991feeac9e90117200935c80d029a53",
+        "Job_description": "The Enterprise Data & Analytics Team is building out a team of well-rounded, full-stack Data Engineers to support mission-transforming work through data at the American Red Cross. As a result, we are hiring for a Lead Data Engineer for one our highly dynamic product teams to help do this exciting work! As a Lead Data Engineer for the American Red Cross, you will be part of our Enterprise Data Analytics team that is modernizing and transforming our data and reporting capabilities across multiple verticals by implementing a new modernized data architecture and technical stack. The Lead Data Engineer will help develop, test, maintain and support an enterprise data warehouse system and corresponding data and will be responsible for database design  and implementation of agreed upon standards. This position requires an innovative engineer who is passionate about data, data quality & automation. The ideal candidate will possess strong data warehousing experience and the ability to develop and deploy scalable data pipelines that make data management and analytics/reporting faster, more insightful, and more efficient.",
+        "Job_requirements": "Collaborate with analytics and business teams to improve data models that feed business intelligence tools, increasing data accessibility and fostering data-driven decision making across the organization. Build and implement scalable solutions that align to our data governance standards and architectural roadmap for data integrations, data storage, reporting, and analytic solutions. Design, develop and test data integration solutions.  Write, automate and document unit/integration/functional tests. Manage automated deployments using Git pipelines, ensuring code changes are efficiently version-controlled and deployed. Collaborate with multiple teams to streamline deployment workflows, monitor and troubleshoot pipelines for reliability and performance. Perform data analysis required to troubleshoot data-related issues by building a data quality framework and assist in the resolution of data issues. Serve as tech lead by mentoring less experienced members of the team through code reviews, pair programming and similar hands-on interactions."
+    },
+    {
+        "Title": "Software Engineer (Buffer)",
+        "Why_I_want_to_there": "Buffer has some of the best perks by far from what I have seen.Work is remote, 4-dday work weeks, $1,000 stipend for home office set up, extra funds for learning and development is given every year, AI tool stipend, and a saveings plan where the company will match 3% of what you put in. With benefits like these it is understandable why I may be attracted by it when I never had a job that offered even one of these things.",
+        "Tech_stack": "Backbone.js | JavaScript | HTML | CSS | PHP | CodeIgniter | React | Jquery | JQuery UI | Underscore | MongoDB | Amazon ElastiCache",
+        "Do_I_need_to_learn_new_tech": "I have an understanding of some of these, but I would need to learn a lot of the libraries and what they use for data store.",
+        "What_goals_do_I_have_in_position": "I would want to be able to improve on my API skills. This application focuses on users being able to connect their social media accounts to a single dashboard and create posts across their accounts. That is a lot of communication between APIs which is what I am hoping to specialize in web development.",
+        "Do_I_have_the_skills_for_the_job": "I currently do not have all the skills needed for this job, I will need to beecome more familiar with their libraries/frameworks and data store tools before I am more confident in saying that I have the skills for this job.",
+        "Link_to_job": "https://buffer.com/journey",
+        "Job_description": "Feature Development: Design, develop, and implement new product features, ensuring high-quality code and a seamless user experience.Code Maintenance: Maintain and improve existing codebases, focusing on performance optimization and bug fixes. Collaboration: Work closely with cross-functional teams, including product managers, designers, and customer advocates, to gather requirements and translate them into technical solutions. Documentation: Document software architecture and decision-making processes to ensure knowledge sharing and maintainability",
+        "Job_requirements": "Technical Proficiency: Experience with relevant programming languages and frameworks pertinent to the role (e.g., React for front-end positions, Node.js for back-end). Problem-Solving Skills: Strong analytical and debugging abilities to address complex technical challenges. Communication Skills: Effective verbal and written communication skills to articulate ideas and collaborate with team members. Adaptability: Ability to work in a remote, asynchronous environment, managing time effectively across different time zones.Continuous Learning: Commitment to staying updated with industry trends and emerging technologies to inform development practices."
+    },
+    {
+        "Title": "Developer(CodeStack)",
+        "Why_I_want_to_there": "The main reason why I would like to work in CodeStack is because I can directlyimpact and help people in the community. Whether it is as a tutor or a regular developer I am positive I can make a positive impact. Another pro would be the fact that it is in Stockton. Stockton is where my grandparents live and Manteca is where my parents and siblings are located. Work being close to where my family is located is a huge plus.",
+        "Tech_stack": "",
+        "Do_I_need_to_learn_new_tech": "",
+        "What_goals_do_I_have_in_position": "",
+        "Do_I_have_the_skills_for_the_job": "",
+        "Link_to_job": "n/a",
+        "Job_description": "",
+        "Job_requirements": ""
+    },
+    {
+        "Title": "Staff Software Engineer(GooseChase)",
+        "Why_I_want_to_there": "This company harps on having great benefits for their employees. One of which I would really like to have. Fully remote work. I like the idea being able to travel and work. The second main benefit would be the the 4 day work week. This job appeals to my desire of having freedom and a life outside of work.",
+        "Tech_stack": "JavaScript (Node.js, React) | Python (Django) | HTML5 | CSS3 (Bootstrap, Emotion) | Java | Kotlin | Swift | Objective-C | Express.js",
+        "Do_I_need_to_learn_new_tech": "If I were to pick up a job with GooseChase then I would only need to learn Python, Java, Kotlin, Swift, Objective-C, and Espress.js. Espress.js isn't too bad. I already have tried making JS API's in the past and releasing them with Digital Ocean. I can become more familiar with it over time. However, I would need to learn 4 technologies from scratch to become a more suited applicant.",
+        "What_goals_do_I_have_in_position": "If I was working for GooseChase then I would really like to be the person in charge of the infrastructure. There application requires that users can connect to their application from multiple platforms at once. That seems like a great way of improving my understanding of cross platform applications.",
+        "Do_I_have_the_skills_for_the_job": "I believe I do have the skills needed for the job. I would need to learn their tech stack and adapt in using it together, but I am fairly confident in being able to do the job.",
+        "Link_to_job": "https://4dayweek.io/company/goosechase/jobs",
+        "Job_description": "Develop and implement new features for both front-end and back-end systems, enhancing the user experience for game organizers and participants. Collaborate with design and mobile teams to translate feature mock-ups into high-quality code, focusing on reliability and performance. ​Stay updated with platform guidelines and best practices, particularly for relevant technologies and frameworks. ​Participate actively in the development team by sharing best practices, conducting code reviews, and contributing to team learning.",
+        "Job_requirements": "Advanced proficiency in both front-end and back-end development, with significant experience in modern web technologies such as React.js, Node.js, and Python. Strong understanding of mobile development, particularly for Android platforms, with experience in Java and Kotlin. Ability to work independently with minimal supervision, demonstrating initiative and sound judgment.Excellent communication skills, problem-solving abilities, and a creative mindset. Experience with distributed computing systems and relational databases is advantageous. "
+    },
+    {
+        "Title": "MESA USA",
+        "Why_I_want_to_there": "",
+        "Tech_stack": "",
+        "Do_I_need_to_learn_new_tech": "",
+        "What_goals_do_I_have_in_position": "",
+        "Do_I_have_the_skills_for_the_job": "",
+        "Link_to_job": "n/a",
+        "Job_description": "",
+        "Job_requirements": ""
+    },
+    {
+        "Title": "Software Engineer, Datastore (Notion)",
+        "Why_I_want_to_there": "I like Notion. Simple as that. I have used a lot of document editors for note taking and by far Notion is pretty great. Location also helps as the job is located San Francisco, CA, so I am in the Bay Area where tech companies are abundent. <br/> ",
+        "Tech_stack": "Large scale relational databases | NoSQL Systems | AWS RDS | DynamoDB | ElastiCache | ",
+        "Do_I_need_to_learn_new_tech": "I would need to learn everything from their tech stack",
+        "What_goals_do_I_have_in_position": "If I was in this position I would like to achieve the ability to not only help maintain and build parts to the database, but to even improve upon it. If I can get a job like this then I would have made significant achievements in back-end development in order to have gotten the job. That would be great in its own right, but if I can improve upon it would be amazing and awesome to think about.",
+        "Do_I_have_the_skills_for_the_job": "I don't have the skills for the job. At least, the skills I have are a good start, but I would need to lean in even more into back-end, databases (MySQL), and software Infrastructure",
+        "Link_to_job": "https://job-boards.greenhouse.io/notion/jobs/6336489003",
+        "Job_description": "Datastore infrastructure is the backbone of any software product, and at Notion, it plays a critical role in ensuring our millions of users have a fast, reliable, and secure experience. Our Datastore Infra Team builds and maintains the systems that power the databases and caches behind every Notion feature. From scaling our relational and NoSQL databases to designing data migration frameworks, we ensure that Notion’s data layer remains robust and future-proof. As part of the Datastore Infra Team, you’ll have a unique opportunity to shape how Notion manages and scales its foundational data services, enabling innovation across the company. This role is based out of our New York City or San Francisco office.",
+        "Job_requirements": "Familiarity with Datastore Systems: You have experience with large scale relational databases, distributed caches, and NoSQL systems. You understand how to design, scale, and optimize them to support growing business needs. Our team utilizes cloud-based datastore solutions like AWS RDS, DynamoDB, and ElastiCache to power our infrastructure. Systems thinker: You understand distributed systems and can design solutions that account for tradeoffs like consistency, latency, and scalability.Pragmatic problem-solver: You prioritize business impact and understand the balance between craft, speed, and long-term maintainability. You’re opinionated but not ideological, and you learn new technologies as you go. Ownership and initiative: You thrive in a fast-moving, unstructured environment and are comfortable taking ownership of ambiguous problems. You act with a bias toward action and focus on results. Customer Empathy: You excel at collaborating across teams, offering guidance and solutions to unblock engineers and support them in building reliable systems. With empathy at the core of your approach, you focus on addressing the needs of those who depend on datastore infrastructure."
+    },
+    {
+        "Title": "Full Stack Software Engineer (Calm)",
+        "Why_I_want_to_there": "To prevent myself falling behind in either front-end and back-end web-development.",
+        "Tech_stack": "GoLang | TypeScript | Node.js | HTML | CSS | JavaScript |  GCP | AWS | SQL",
+        "Do_I_need_to_learn_new_tech": "I would need to learn more about node.js. While we create projects that rely on Node.js I may need to learn more of how to use it for back-end development as they use Node.js for back-end. Then there is SQL, GCP and AWS I will need to learn.",
+        "What_goals_do_I_have_in_position": "My goals in this job is to mainly maintain and improve upon my existing skills. This appears to be a well rounded job for full-stack developers. That is good because then I can continue being exposed to front-end and back-end development preventing my skills in both areas to continue improving and not fall behind.",
+        "Do_I_have_the_skills_for_the_job": "I actually would say I do. I need to become more familiar with the 3 pieces of their tech stack I don't have too much experience, but the transition to learn them shouldn't be too difficult.",
+        "Link_to_job": "https://job-boards.greenhouse.io/calm/jobs/7914941002",
+        "Job_description": "Effectively work with stakeholders to gather requirements, define project scope, and develop technical specifications. Participate in the development and implementation of complex features and services across the technology stack, collaborating cross-functionally with QA, DevOps, PMs, and client engineers to ensure smooth development and deployment process. Write high-quality, well-documented, and easily maintainable code that adheres to industry standard best-practices for both backend and frontend development. Ensure high test coverage for all code, including unit and integration tests. Implementing features with instrumentation and monitoring across the entire technology stack to detect system errors and performance issues",
+        "Job_requirements": "This role typically requires 3+ years of related experience"
+    },
+    {
+        "Title": "Software Engineer - Backend (Snap Inc.)",
+        "Why_I_want_to_there": "I am mainly interested in working for Snap Inc. because they do a lot of work with media sharing. I mainly think it would be fun and engaging to work in a company like this one.",
+        "Tech_stack": "Go | Java | NoSQL | DynamoDB | Redis | MongoDB | AWS | GCP | Azure | Docker | Kubernetes",
+        "Do_I_need_to_learn_new_tech": "Yes, majority of the tech stack I would need to learn. Not only would I need to learn them, but they prefer I have a few years of experience with the languages. I would also need familarity + experience for the database tech and cloud technology",
+        "What_goals_do_I_have_in_position": "To learn as much as I can about the data store methods of the company and they optimally store media and share them between users.",
+        "Do_I_have_the_skills_for_the_job": "Optimizing software solutions may be the area I majorly fall short. To begin with, I wouldn't know how to optimize code. Maybe it is a researching base skill or maybe there is a more technical aspect to it.",
+        "Link_to_job": "https://careers.snap.com/job?id=R0039118",
+        "Job_description": "Design, build, and maintain scalable backend solutions for Snap's Gen AI platform, enhancing user engagement through generative content. Work on interesting and complex technical challenges in a fast-paced environment, contributing to solutions that support a platform used by millions daily. Develop and maintain robust, scalable products with a focus on reusability and alignment with architectural goals. Contribute to code quality by performing and participating in code reviews, ensuring adherence to exceptional standards, especially for cloud-based platforms. Iterate and implement solutions quickly while balancing speed and quality. Learn and grow under the mentorship of senior engineers, adopting best practices to support the highest levels of engineering excellence within the team.",
+        "Job_requirements": "BS/BA degree in Computer Science or related field, or equivalent practical experience. 3+ years of experience coding in Go, Java, or a similar language. Experience working with high-load services or distributed systems, with the ability to troubleshoot and optimise performance. Strong understanding of database concepts and practical experience with NoSQL databases like DynamoDB, Redis, or MongoDB. Proficiency in Linux/Unix environments and experience with scripting languages like Python or shell scripting for automation and tooling. Familiarity with cloud platforms (AWS, GCP, or Azure) and containerisation technologies like Docker and Kubernetes. Ability to work independently on tasks while collaborating effectively within a team."
+    },
+    {
+        "Title": "Software Engineer (Live Nation Entertainment)",
+        "Why_I_want_to_there": "Similar to Snap Inc. I think this would be a very cool job to have. Being involved with the music industry in this fashion feels like a great way to network and meet amazing creative people too. Also, free concert tickets are a part of the perks XD.",
+        "Tech_stack": "React | Java | Kafka | KStream | AWS | Step Functions | Kubernetes",
+        "Do_I_need_to_learn_new_tech": "Kafka, KStream, AWS, Step Functions, and Kubernetes are what I would need to learn. With the exception of AWS, this is the first time I am hearing about these technologies.",
+        "What_goals_do_I_have_in_position": "I want to be the person responsible for the building SDKs. I never really considered making SDKs, so seeing this is a responsibilty for the software engineer is really interesting and something I like to try my hands on if I were hired. ",
+        "Do_I_have_the_skills_for_the_job": "Yes, if the company relies a lot on React then I am pretty comfortable with the front end already. I would just need to get some experience with the other tech stacks.",
+        "Link_to_job": "https://livenation.wd1.myworkdayjobs.com/LNExternalSite/job/Work-From-Home---Arizona/Software-Engineer_JR-79241-1?source=LinkedIn",
+        "Job_description": "▪    Work on web applications including the next generation of the Ticketmaster marketplace ▪    Identify creative solutions that improve the fan experience and satisfy critical business needs ▪    Implement cloud-based micro services with low latency and consistent performance ▪    Represent your peers in discussion with business stakeholders ▪    Collaborate with other tech and product teams within the purchase vertical and across the company ▪    Design systems for real-time data processing and reactive state management ▪    Implement Kafka consumers and producers, leveraging the Streams APIs ▪    Instrument APIs and applications with Open Telemetry ▪    Deploy and monitor services running on Kubernetes ▪    Leverage system performance metrics and logs to tune scaling, improve efficiency, and preserve app health ▪    Build SDKs using JavaScript to ease integration of our services with React applications ▪    Interest in CSS, UX and design philosophies such as progressive enhancement ▪    Participate in standups and other Agile ceremonies  ▪    Mentor junior engineers via pair programming, code reviews, and design sessions as appropriate",
+        "Job_requirements": "▪    Demonstrable experience (at least 2 - 4 years working in technology, preferably at an organization with over 20 developers on staff) ▪    Should be passionate about live entertainment and excited to build products that can withstand traffic from millions of excited fans ▪    Expertise developing in Java preferably using Spring and Maven ▪    Experience building applications on AWS using serverless technologies like Lambda, Step Functions, and Appsync ▪    Working experience with streaming technologies like Kafka or Kinesis ▪    Fluency in JavaScript, React and Node.js, including npm and server frameworks like Next.js ▪    Proficiency deploying apps on Kubernetes ▪    Strong understanding of data structures and algorithm design ▪    Ability to produce highly performant code that can scale effectively"
+    },
+    {
+        "Title": "MESA USA",
+        "Why_I_want_to_there": "",
+        "Tech_stack": "",
+        "Do_I_need_to_learn_new_tech": "",
+        "What_goals_do_I_have_in_position": "",
+        "Do_I_have_the_skills_for_the_job": "",
+        "Link_to_job": "n/a",
+        "Job_description": "",
+        "Job_requirements": ""
+    }
+]

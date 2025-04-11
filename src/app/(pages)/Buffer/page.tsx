@@ -6,13 +6,13 @@ const page = () => {
   return (
     <div>
       <div className='w-full h-screen relative'>
-        <Image className='absolute' fill={true} src="/ARC.png" alt='hero image' />
+        <Image className='absolute' fill={true} src="/buffer-banner.png" alt='hero image' />
         <div className='h-full w-[50rem] absolute bg-linear-to-r from-black to-transparent'>
 
           <div className='absolute top-1/3 left-0 w-3/5 ps-9 h-2/3 text-center rounded-sm text-white font-bold '>
-            <h1 className='text-8xl h-auto w-full '>American Red Cross</h1>
+            <h1 className='text-8xl h-auto w-full '>Buffer</h1>
             <p className='text-xl leading-relaxed h-auto w-full mt-9 indent-16 text-left'>
-            &quot;The American Red Cross prevents and alleviates human suffering in the face of emergencies by mobilizing the power of volunteers and the generosity of donors.&quot;
+            &quot;We’re an optimistic and gratitude-filled group of remote workers scattered around the world and dedicated to creating a product our customers will use and love.&quot;
             </p>
           </div>
           <div className=' absolute top-3/4 left-0 w-3/5 text-left ps-[3rem] pe-[1rem] pt-[1rem] pb-[1rem] rounded-sm text-white font-bold '>
@@ -22,7 +22,7 @@ const page = () => {
 
       <div className='border-2 border-black flex justify-center'>
 
-        <PageContent Title='Lead Data Engineer (American Red Cross)' />
+        <PageContent Title='Software Engineer (Buffer)' />
       </div>
     </div>
   )

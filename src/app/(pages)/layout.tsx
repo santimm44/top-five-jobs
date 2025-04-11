@@ -1,27 +1,24 @@
 import React from 'react'
-import { NavigationMenu, NavigationMenuItem, NavigationMenuLink, NavigationMenuList, navigationMenuTriggerStyle } from '@/components/ui/navigation-menu'
-import { redirect } from 'next/navigation'
+import { NavigationMenu, NavigationMenuItem, NavigationMenuLink, NavigationMenuList} from '@/components/ui/navigation-menu'
 const layout = ({ children }: { children: React.ReactNode }) => {
 
-    // const goHome = () => {
-    //     redirect('./Home')
-    // }
+ 
     return (
-        <div className='bg-[#7393B3] h-screen w-screen '>
+        <div className='bg-[#7393B3] h-screen '>
 
             <div className=''>
-                {/* <div>
-                    <NavigationMenu>
-                        <NavigationMenuList>
-                            <NavigationMenuItem>
-                                <NavigationMenuLink className={navigationMenuTriggerStyle()}>
+                <div className='absolute z-10 left-[20%] '>
+                    <NavigationMenu >
+                        <NavigationMenuList >
+                            <NavigationMenuItem >
+                                <NavigationMenuLink className='  bg-red-100'>
                                     Home
                                 </NavigationMenuLink>
                             </NavigationMenuItem>
                         </NavigationMenuList>
                     </NavigationMenu>
-                </div> */}
-                <div className='h-full p-[2rem_4rem] bg-amber-50'>
+                </div>
+                <div className='h-full bg-amber-50'>
                     {children}
                 </div>
             </div>

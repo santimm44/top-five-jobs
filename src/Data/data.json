@@ -1,0 +1,56 @@
+[
+    {
+        "Title": "MESA USA",
+        "Description": "Founded in 1970 at Oakland Technical High School with just 25 students, the program began with the goal to increase the number of students earning STEM degrees from four-year universities—a goal that remains central to MESA’s work today.",
+        "Image": "/MESA-logo.png",
+        "Redirect": "/MESAUSA"
+    },
+    {
+        "Title": "American Red Cross",
+        "Description": "Red Cross volunteers and staff work to deliver vital services – from providing relief and support to those in crisis, to helping you be prepared to respond in emergencies.",
+        "Image": "/american-red-cross-logo.webp",
+        "Redirect": "/AmericanRedCross"
+    },
+    {
+        "Title": "CodeStack Academy",
+        "Description": "Our academy will focus on the latest programming languages used by the top companies in both the Central Valley and Silicon Valley.",
+        "Image": "/Code-stack-academy.png",
+        "Redirect": "/CodeStack"
+    },
+    {
+        "Title": "Notion",
+        "Description": "Notion is a single space where you can think, write, and plan. Capture thoughts, manage projects, or even run an entire company — and do it exactly the way you want.",
+        "Image": "/notion-logo.png",
+        "Redirect": "/Notion"
+    },
+    {
+        "Title": "Buffer",
+        "Description": "We’re an optimistic and gratitude-filled group of remote workers scattered around the world and dedicated to creating a product our customers will use and love.",
+        "Image": "/Buffer-Logo.webp",
+        "Redirect": "/Buffer"
+    },
+    {
+        "Title": "GooseChase",
+        "Description": "We think the world needs more fun, so we built Goosechase for people to create engaging, delightful and out of the ordinary interactive experiences to be enjoyed anywhere.",
+        "Image": "/goosechase-logo.png",
+        "Redirect": "/GooseChase"
+    },
+    {
+        "Title": "Snap Inc.",
+        "Description": "Snapchat is an app that empowers people to express themselves, live in the moment, learn about the world, and have fun together.",
+        "Image": "/Snap_Inc._logo.png",
+        "Redirect": "/SnapInc"
+    },
+    {
+        "Title": "Live Nation Entertainment",
+        "Description": "LiveNation.co.uk is growing to become the world's largest concert search engine. We're dedicated to helping live music fans more easily and quickly find concert tickets and information about their favourite artists and venues.",
+        "Image": "/live-nation.png",
+        "Redirect": "/LiveNation"
+    },
+    {
+        "Title": "Calm",
+        "Description": "We're a mental health brand with the #1 app for sleep, meditation, and relaxation*, with over 150 million downloads and 2.5M 5-star reviews**.  We’re here to help you sleep more, stress less and live mindfully.",
+        "Image": "/calm-health-logo.png",
+        "Redirect": "/Calm"
+    }
+]
